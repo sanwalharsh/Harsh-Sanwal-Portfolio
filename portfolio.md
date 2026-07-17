@@ -2,7 +2,7 @@
 
 > **Purpose of this file:** This document is the definitive, structured source of truth for Harsh Sanwal's portfolio website. It is written to be parsed by AI models or developers to populate any portfolio template (hero section, about, skills, experience, projects, achievements, certifications, education, services, contact) without requiring additional context.
 >
-> **Data provenance:** All facts below are taken directly from Harsh Sanwal's résumé (2026). Items marked `[PENDING]` are awaiting confirmation from Harsh — do **not** invent values for them. See the "Open Questions / Pending Information" section at the end.
+> **Data provenance:** All facts below are taken directly from Harsh Sanwal's résumé (2026) and confirmed with Harsh directly. Do **not** invent values for any field. The only remaining placeholders are noted in the "Assets & Remaining Items" section at the end.
 
 ---
 
@@ -15,9 +15,9 @@
 | **Location** | New Delhi, India |
 | **Email** | sanwalmaillink@gmail.com |
 | **Phone** | +91 9478959696 |
-| **LinkedIn** | `[PENDING — URL to be provided]` |
-| **GitHub** | `[PENDING — likely https://github.com/sanwalharsh, awaiting confirmation]` |
-| **Portfolio Website** | `[PENDING — URL to be provided]` |
+| **LinkedIn** | https://www.linkedin.com/in/sanwalharsh/ |
+| **GitHub** | https://github.com/sanwalharsh |
+| **Portfolio Website** | This website itself — use the site's deployed URL wherever a "Portfolio" link is needed (no separate portfolio site exists) |
 
 **Suggested hero headline:** Harsh Sanwal — Data Analyst | Analytics | AI & Data Engineering
 
@@ -116,7 +116,7 @@ Technical Analyst with experience in operational analytics, enterprise support, 
 **Tagline:** AI Design Intelligence Platform
 **Category:** Agentic AI / RAG / Operational Analytics
 **Tech stack:** LangGraph, GPT APIs, Advanced RAG, enterprise knowledge bases, analytics dashboards
-**Links:** `[PENDING — GitHub repo / live demo URL to be provided]`
+**Links:** Public on GitHub — https://github.com/sanwalharsh `[replace with the exact repository URL before publishing]`
 
 - Architected an AI-powered IT Operations Copilot integrating LangGraph, GPT APIs, and enterprise knowledge bases to automate incident triage and root cause analysis.
 - Engineered Advanced RAG pipelines combining semantic retrieval and structured operational data to generate context-aware troubleshooting recommendations.
@@ -126,7 +126,7 @@ Technical Analyst with experience in operational analytics, enterprise support, 
 **Tagline:** AI-Powered Fraud Detection & Risk Intelligence System
 **Category:** Machine Learning / Anomaly Detection / Risk Analytics
 **Tech stack:** Python, SQL, Machine Learning, AI-assisted anomaly detection, interactive dashboards
-**Links:** `[PENDING — GitHub repo / live demo URL to be provided]`
+**Links:** Public on GitHub — https://github.com/sanwalharsh `[replace with the exact repository URL before publishing]`
 
 - Engineered anomaly detection models using Python, SQL, and Machine Learning to identify high-risk transactions and emerging fraud patterns.
 - Developed automated validation pipelines integrating AI-assisted anomaly detection, risk scoring, and operational monitoring to strengthen data integrity.
@@ -170,13 +170,25 @@ Technical Analyst with experience in operational analytics, enterprise support, 
 
 | Degree | Institution | Year |
 |---|---|---|
-| Bachelor of Science (B.Sc.) in Physics | KU `[PENDING — full university name to be confirmed]` | 2023 |
+| Bachelor of Science (B.Sc.) in Physics | Panjab University | 2023 |
 
 ---
 
 ## 9. Services
 
-`[PENDING — Harsh has not yet confirmed whether the portfolio should include a services/offerings section, or what services to list. Do not fabricate services. If confirmed, likely candidates based on his skill set: data analytics & BI dashboarding, AI/LLM workflow automation, RAG & agentic AI system development, LLM evaluation & prompt engineering.]`
+Harsh offers the following freelance/consulting services (confirmed — include a Services section on the portfolio):
+
+### Data Analytics & BI Dashboards
+Turning raw operational data into decision-ready insight: SQL analysis, KPI reporting, statistical analysis, root cause analysis, and interactive Power BI dashboards.
+
+### AI / LLM Workflow Automation
+Automating repetitive data-extraction, documentation, and reporting workflows with AI-assisted tooling — proven to cut manual effort by 30% in production settings.
+
+### RAG & Agentic AI System Development
+Designing and building Retrieval-Augmented Generation pipelines and agentic AI systems using LangChain, LangGraph, GPT/Claude APIs, and MCP — from architecture to working product.
+
+### LLM Evaluation & Prompt Engineering
+Structured evaluation of LLM outputs (accuracy, reasoning consistency, response quality), prompt evaluation workflows, comparative analysis, and LLM-as-a-Judge methodologies.
 
 ---
 
@@ -185,7 +197,8 @@ Technical Analyst with experience in operational analytics, enterprise support, 
 - **Preferred contact:** Email — sanwalmaillink@gmail.com
 - **Phone:** +91 9478959696
 - **Location:** New Delhi, India (open to remote work — freelance experience is remote)
-- **Social/professional profiles:** LinkedIn and GitHub — URLs `[PENDING]`
+- **LinkedIn:** https://www.linkedin.com/in/sanwalharsh/
+- **GitHub:** https://github.com/sanwalharsh
 
 **Suggested contact section copy:** "Have a data problem or an AI workflow to build? Let's talk — reach out via email or connect on LinkedIn."
 
@@ -195,20 +208,17 @@ Technical Analyst with experience in operational analytics, enterprise support, 
 
 1. **Tone:** Professional, results-oriented, technically credible. Emphasize quantified outcomes (20% fewer repeat incidents, 40% faster reporting, 30% less manual effort).
 2. **Positioning:** Harsh sits at the intersection of **data analytics** and **applied Generative AI** — present him as an analyst who also builds AI systems, not purely one or the other.
-3. **Do not fabricate:** Any field marked `[PENDING]` must be filled with real values from Harsh before publishing — never invent URLs, dates, employers, metrics, or service offerings.
-4. **Ordering suggestion for a single-page portfolio:** Hero → About → Skills → Experience → Projects → Certifications → Achievements → Education → (Services, if confirmed) → Contact.
-5. **Keywords for SEO/meta tags:** Data Analyst, Analytics, AI Engineering, Data Engineering, Python, SQL, Power BI, Generative AI, LangChain, LangGraph, RAG, Agentic AI, LLM Evaluation, New Delhi.
+3. **Do not fabricate:** Never invent URLs, dates, employers, metrics, or service offerings beyond what is in this file. Exact project repository URLs must be provided by Harsh before publishing (see section 12).
+4. **Ordering suggestion for a single-page portfolio:** Hero → About → Skills → Experience → Projects → Services → Certifications → Achievements → Education → Contact.
+5. **Résumé & photo:** The portfolio should include a downloadable résumé (PDF) and a profile photo/headshot. Harsh will supply both asset files.
+6. **Keywords for SEO/meta tags:** Data Analyst, Analytics, AI Engineering, Data Engineering, Python, SQL, Power BI, Generative AI, LangChain, LangGraph, RAG, Agentic AI, LLM Evaluation, New Delhi.
 
 ---
 
-## 12. Open Questions / Pending Information
+## 12. Assets & Remaining Items
 
-The following items are missing or ambiguous in the source résumé and must be confirmed by Harsh:
+Everything in this file is confirmed by Harsh. The only items still needed before publishing are asset files and two exact URLs:
 
-1. **LinkedIn URL** — the résumé links "LinkedIn" but the underlying URL was not recoverable from the PDF.
-2. **GitHub URL** — likely `https://github.com/sanwalharsh` (based on this repository's owner), but needs confirmation.
-3. **Portfolio website URL** — the résumé links "Portfolio" but the URL was not recoverable.
-4. **Full university name** — the résumé abbreviates it as "KU" (e.g., Kumaun University, Kurukshetra University, University of Kashmir — unconfirmed).
-5. **Project links** — GitHub repositories and/or live demos for *Enterprise IT Operations Copilot* and *SENTINEL*, if public.
-6. **Services section** — whether to include one, and which services to offer.
-7. **Profile photo / résumé download link** — whether the portfolio should include a downloadable résumé and a headshot.
+1. **Exact project repository URLs** — both projects (*Enterprise IT Operations Copilot* and *SENTINEL*) are public on https://github.com/sanwalharsh; replace the profile links in section 5 with the specific repository URLs.
+2. **Profile photo** — a headshot image file (confirmed: the portfolio should display one).
+3. **Résumé PDF** — the file to serve behind the "Download Résumé" button (confirmed: the portfolio should offer one).
