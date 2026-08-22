@@ -1,10 +1,6 @@
 # Harsh Sanwal — portfolio
 
-A scrapbook-desk portfolio: a warm paper canvas, a collage of objects you can pick
-up and throw around, and the résumé content underneath it as quiet monospace type.
-Styled after the editorial-collage school of personal sites (jackiehu.design), with
-its own palette, props and copy.
-
+Click To Redirect- https://harsh-sanwal-portfolio-rc4px52ej-hearthn-sky.vercel.app
 ## Run
 
 ```bash
