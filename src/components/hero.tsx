@@ -210,8 +210,8 @@ export function Hero() {
             transition={{ duration: 0.7, delay: 0.35, ease: EASE }}
             className="mt-1"
           >
-            <p className="text-[15px] tracking-[0.02em]">Data Analysis</p>
-            <p className="font-serif text-[15px] italic text-ink/80">Signal &amp; Story</p>
+            <p className="text-[15px] tracking-[0.02em]">{profile.role}</p>
+            <p className="font-serif text-[15px] italic text-ink/80">{profile.roleSub}</p>
           </motion.div>
 
           <motion.p

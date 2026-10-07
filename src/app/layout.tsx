@@ -37,13 +37,13 @@ const instrument = Instrument_Serif({
 });
 
 export const metadata: Metadata = {
-  title: "Harsh Sanwal — Data & ML",
+  title: "Harsh Sanwal — Data Analyst",
   description:
-    "Data analyst and machine learning engineer working on forecasting, anomaly detection, knowledge graphs and multi-agent AI systems.",
+    "Data analyst focused on consumer product analytics, KPI reporting, business performance analysis, and reliable AI evaluation workflows.",
   openGraph: {
-    title: "Harsh Sanwal — Data & ML",
+    title: "Harsh Sanwal — Data Analyst",
     description:
-      "Forecasting, anomaly detection, knowledge graphs and multi-agent AI systems.",
+      "Consumer product analytics, KPI reporting, and AI evaluation for decision-ready insights.",
     type: "website",
   },
 };
