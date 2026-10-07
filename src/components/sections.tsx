@@ -459,9 +459,9 @@ export function About() {
               <p className="script mt-1 text-[30px] leading-none">{profile.name}</p>
               <p className="mt-4 label">Doing</p>
               <p className="mt-1 text-[11.5px] leading-snug">
-                Product &amp; Data Analyst
+                {profile.role}
                 <br />
-                <span className="text-muted">Incoming AI Research Intern, DRDO</span>
+                <span className="text-muted">{profile.roleSub}</span>
               </p>
               <p className="mt-4 label">Based</p>
               <p className="mt-1 text-[11.5px]">{profile.location}</p>
